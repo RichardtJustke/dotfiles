@@ -4,7 +4,7 @@
     "source": "~/.config/fastfetch/ascii/arch.txt",
     "padding": {
       "top": 2,
-      "right": 6
+      "right": 3
     }
   },
   "display": {
@@ -64,4 +64,5 @@
     "break",
     "break"
   ]
+
 }

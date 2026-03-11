@@ -61,4 +61,7 @@ alias grr="git remote rm"
 alias gsh="git stash"
 alias fastfetch-theme-selector="bash ~/.config/fastfetch-theme-selector/FastCat/fastcat.sh -s"
 
+
+# Executa o fastfetch ao iniciar
 fastfetch
+
